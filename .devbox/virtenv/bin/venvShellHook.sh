@@ -1,0 +1,1 @@
+/Users/sergio.rodriguez/Projects/Community/AWS/UserGroupCbba/GitHub/meetups/meetup_12_06_2025_strands_agentcore/00/.devbox/virtenv/python/bin/venvShellHook.sh
